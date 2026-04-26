@@ -21,6 +21,4 @@ the Deloitte Data Analytics Virtual Job Simulation on Forage.
 - Tableau
 - Microsoft Excel
 
-### Note
-This project was completed as part of the Deloitte Data Analytics
-Virtual Job Simulation on Forage — not real client work.
+
